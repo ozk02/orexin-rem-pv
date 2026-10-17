@@ -1,0 +1,9 @@
+# Data and results are not shared in this repository
+data/
+output/
+*.parquet
+*.csv
+*.zip
+__pycache__/
+*.pyc
+.venv/
