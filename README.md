@@ -1,5 +1,7 @@
 # orexin-rem-pv
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23447366.svg)](https://doi.org/10.5281/zenodo.23447366)
+
 Analysis code for:
 
 > **Orexin receptor antagonists and REM sleep–related experiences at the sleep–wake boundary: a disproportionality analysis of individual case safety reports in JADER and FAERS** (preprint, [link to be added])
@@ -108,5 +110,9 @@ Spontaneous reports cannot show causality or incidence; the results are hypothes
 MIT (see `LICENSE`).
 
 ## Citation
+
+Code (all versions): Ozaki T. orexin-rem-pv. Zenodo. https://doi.org/10.5281/zenodo.23447366 (v1.0.0: https://doi.org/10.5281/zenodo.23447367)
+
+Article:
 
 Ozaki T. Orexin receptor antagonists and REM sleep–related experiences at the sleep–wake boundary: a disproportionality analysis of JADER and FAERS. medRxiv [year]. doi: [to be added]
