@@ -1,0 +1,11 @@
+{
+  "title": "orexin-rem-pv: analysis code for a disproportionality analysis of orexin receptor antagonists and REM sleep-related experiences in JADER and FAERS",
+  "upload_type": "software",
+  "description": "Python code for a disproportionality analysis of individual case safety reports in the Japanese Adverse Drug Event Report database (JADER) and the FDA Adverse Event Reporting System (FAERS). Reports with a suspected dual orexin receptor antagonist are compared with reports with a suspected benzodiazepine or Z-drug. Events are grouped into tiers by proximity to REM sleep, and reporting odds ratios are estimated with Firth-penalised logistic regression. No data are included; see the README for download steps.",
+  "creators": [
+    {"name": "Ozaki, Takuya"}
+  ],
+  "license": "MIT",
+  "keywords": ["pharmacovigilance", "disproportionality analysis", "JADER", "FAERS", "orexin receptor antagonists", "nightmares", "REM sleep"],
+  "access_right": "open"
+}

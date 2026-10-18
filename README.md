@@ -109,4 +109,4 @@ MIT (see `LICENSE`).
 
 ## Citation
 
-[Author]. Orexin receptor antagonists and REM sleep–related experiences at the sleep–wake boundary: a disproportionality analysis of JADER and FAERS. medRxiv [year]. doi: [to be added]
+Ozaki T. Orexin receptor antagonists and REM sleep–related experiences at the sleep–wake boundary: a disproportionality analysis of JADER and FAERS. medRxiv [year]. doi: [to be added]

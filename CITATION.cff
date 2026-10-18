@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "orexin-rem-pv: analysis code for a disproportionality analysis of orexin receptor antagonists and REM sleep-related experiences in JADER and FAERS"
+authors:
+  - family-names: Ozaki
+    given-names: Takuya
+version: 1.0.0
+date-released: 2026-10-18
+license: MIT
+repository-code: "https://github.com/ozk02/orexin-rem-pv"
